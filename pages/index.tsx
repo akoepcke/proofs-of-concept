@@ -11,10 +11,10 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h1 className="font-semibold text-red-600">proofs of concept</h1>
+      <main className="p-8">
+        <h1 className="font-semibold">demos and proofs of concept</h1>
 
-        <ul>
+        <ul className="mt-8 list-disc list-inside">
           <li>
             <Link href="/camera">camera</Link>
           </li>
