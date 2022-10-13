@@ -18,6 +18,9 @@ const Home: NextPage = () => {
           <li>
             <Link href="/camera">camera</Link>
           </li>
+          <li>
+            <Link href="/motion">motion</Link>
+          </li>
         </ul>
       </main>
     </div>
