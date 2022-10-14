@@ -21,6 +21,9 @@ const Home: NextPage = () => {
           <li>
             <Link href="/motion">motion</Link>
           </li>
+          <li>
+            <Link href="/scroll">scroll</Link>
+          </li>
         </ul>
       </main>
     </div>
