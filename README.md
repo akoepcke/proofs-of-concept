@@ -2,3 +2,4 @@
 
 - photo and video upload
 - motion
+- scrolling
